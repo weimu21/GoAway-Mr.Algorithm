@@ -31,12 +31,12 @@
 ## LeetCode题解
 
 1. 数组相关题目
-    -[LeetCode #11.盛最多水的容器](https://github.com/weimu21/GoAway-Mr.Algorithm/blob/main/LeetCode/%E5%AF%B9%E6%92%9E%E6%8C%87%E9%92%88%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)    
-    -[LeetCode #26 删除排序数组中的重复项](https://github.com/weimu21/GoAway-Mr.Algorithm/blob/main/LeetCode/%E5%BF%AB%E6%85%A2%E6%8C%87%E9%92%88%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)
-    -[LeetCode #27 移除元素](https://github.com/weimu21/GoAway-Mr.Algorithm/blob/main/LeetCode/%E5%BF%AB%E6%85%A2%E6%8C%87%E9%92%88%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)
-    -[LeetCode #80 删除排序数组中的重复项||](https://github.com/weimu21/GoAway-Mr.Algorithm/blob/main/LeetCode/%E5%BF%AB%E6%85%A2%E6%8C%87%E9%92%88%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)
-    -[LeetCode #125.验证回文串](https://github.com/weimu21/GoAway-Mr.Algorithm/blob/main/LeetCode/%E5%AF%B9%E6%92%9E%E6%8C%87%E9%92%88%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)    
-    -[LeetCode #167.两数之和||-输入有序数组](https://github.com/weimu21/GoAway-Mr.Algorithm/blob/main/LeetCode/%E5%AF%B9%E6%92%9E%E6%8C%87%E9%92%88%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)        
+    - [LeetCode #11.盛最多水的容器](https://github.com/weimu21/GoAway-Mr.Algorithm/blob/main/LeetCode/%E5%AF%B9%E6%92%9E%E6%8C%87%E9%92%88%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)    
+    - [LeetCode #26 删除排序数组中的重复项](https://github.com/weimu21/GoAway-Mr.Algorithm/blob/main/LeetCode/%E5%BF%AB%E6%85%A2%E6%8C%87%E9%92%88%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)
+    - [LeetCode #27 移除元素](https://github.com/weimu21/GoAway-Mr.Algorithm/blob/main/LeetCode/%E5%BF%AB%E6%85%A2%E6%8C%87%E9%92%88%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)
+    - [LeetCode #80 删除排序数组中的重复项||](https://github.com/weimu21/GoAway-Mr.Algorithm/blob/main/LeetCode/%E5%BF%AB%E6%85%A2%E6%8C%87%E9%92%88%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)
+    - [LeetCode #125.验证回文串](https://github.com/weimu21/GoAway-Mr.Algorithm/blob/main/LeetCode/%E5%AF%B9%E6%92%9E%E6%8C%87%E9%92%88%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)    
+    - [LeetCode #167.两数之和||-输入有序数组](https://github.com/weimu21/GoAway-Mr.Algorithm/blob/main/LeetCode/%E5%AF%B9%E6%92%9E%E6%8C%87%E9%92%88%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)        
 
 2. 链表相关题目
     - [LeetCode #19 删除链表的倒数第N个节点](https://github.com/weimu21/GoAway-Mr.Algorithm/blob/main/LeetCode/%E5%BF%AB%E6%85%A2%E6%8C%87%E9%92%88%E5%B7%A7%E8%A7%A3%E9%93%BE%E8%A1%A8%E9%A2%98%E7%9B%AE%EF%BC%88%E4%B8%80%EF%BC%89.md)  
