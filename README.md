@@ -26,7 +26,7 @@
    - [栈](https://github.com/weimu21/GoAway-Mr.Algorithm/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%B8%8D%E5%B0%B1%E6%98%AF%E6%A0%88%E5%90%97.md)
 
 ## 算法思维
-   -[时间复杂度分析](https://github.com/weimu21/GoAway-Mr.Algorithm/blob/main/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4/%E6%BB%A1%E6%BB%A1%E7%9A%84%E4%B8%80%E7%AF%87%EF%BC%8C%E5%85%A8%E6%98%AF%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%86%E7%82%B9.md)
+   - [时间复杂度分析](https://github.com/weimu21/GoAway-Mr.Algorithm/blob/main/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4/%E6%BB%A1%E6%BB%A1%E7%9A%84%E4%B8%80%E7%AF%87%EF%BC%8C%E5%85%A8%E6%98%AF%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
 ## LeetCode题解
 
